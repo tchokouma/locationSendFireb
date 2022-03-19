@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.aaddev.my_loc">
+    package="">
 
     <!-- added these permissions -->
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
@@ -14,7 +14,7 @@
 
         <!-- added api key -->
        <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyAOrxr6cazRQ5HHxG6WU_watiaOeXhz1q4"/>
+               android:value="your_map_api"/>
 
 
 
