@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "947442101511",
+    "project_id": "locationtracking-893b8",
+    "storage_bucket": "locationtracking-893b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947442101511:android:ae83f7e15800dbd5aca9a2",
+        "android_client_info": {
+          "package_name": "com.aaddev.my_loc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947442101511-dj5p2pet32010q8dfaic1qsduro9n608.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdlZosae5YR004Mjj87FNtWGMDL2l7Mms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947442101511-dj5p2pet32010q8dfaic1qsduro9n608.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
